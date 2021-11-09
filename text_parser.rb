@@ -1,4 +1,4 @@
-PUNCTUATION = /[!?.,:;(){}'"\[\]]/
+PUNCTUATION = /[!?.,:;(){}"\[\]]/
 
 unless ARGV[0]
   puts "You must supply a file to parse as the first argument"
